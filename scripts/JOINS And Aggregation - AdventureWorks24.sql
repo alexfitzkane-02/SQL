@@ -1,4 +1,4 @@
---Show each product’s name and its product category.
+--Show each productâ€™s name and its product category.
 SELECT TOP 10 P.Name AS [Name]
 ,PC.[Name] AS [ProductCategory]
 FROM SalesLT.Product AS P
