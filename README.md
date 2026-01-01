@@ -1,4 +1,4 @@
-# SQL-Code
+# SQL
 ## 📌 Overview
 This repository contains SQL files that reflect my understanding of SQL and how I apply it to solve real-world problems and answer business-related questions. The focus is on writing clear, efficient queries and using data to generate meaningful insights.
 
